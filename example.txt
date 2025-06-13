@@ -1,1 +1,4 @@
 Hello Git 
+"Another line to add..."
+"Third line is addedd in example text file"
+"this message is form New-branch"
